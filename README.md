@@ -851,7 +851,6 @@ JWT_SECRET=suaSenhaSecreta
 - **✨ Dicas:**
   - Explore outros [find na documentação do Sequelize](https://sequelize.org/docs/v6/core-concepts/model-querying-finders/#findandcountall);
   - Explore outros [insert na documentação do Sequelize](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#creating-in-bulk);
-  - Explore a [seção 6 - Dia 03: ORM - Associations N:N e Transactions - Transações](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/94d0e996-1827-4fbc-bc24-c99fb592925b/section/0ca77b1d-4770-4646-8368-167d2305e763/day/22fa9643-5f27-41f5-943b-2c7cc1c67c01/lesson/a46df24c-0175-49d4-8557-bdcd947eb168), essa seção vai deixar suas aplicações com mais confiablidade e atomicidade, quando o assunto for transações de banco de dados;
 
 <details>
   <summary id="requisito12"><strong>Os seguintes pontos serão avaliados</strong></summary>
